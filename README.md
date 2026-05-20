@@ -113,7 +113,7 @@ Feel free to reach out to discuss architecture, technical decisions, or any ques
 
 ## Connect
 
-- **Portfolio:** [donatorodriguez.com](https://donatohernandez.dev) *(coming soon)*
+- **Portfolio:** [donatohernandez.dev](https://donatohernandez.dev) *(coming soon)*
 - **Email:** manueldonato9921@gmail.com
 - **LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
 - **GitHub:** [@donatohernandez](https://github.com/Donatohernandez)
